@@ -58,6 +58,7 @@
 
 ## Неделя 7
 * 30.10.2026 - SQL: JOIN (INNER, несколько таблиц), LEFT JOIN, GROUP BY с JOIN. sql-practice: DROP TABLE IF EXISTS, 5 INSERT, UPDATE. Зарегался на Codeforces, начал «Идеальные бутерброды» (800), не дорешал. Слепая печать 15 мин. ~4 ч.
+* 01.11.2026 - взял отдых весь день тупого втыкалово
 
 
 

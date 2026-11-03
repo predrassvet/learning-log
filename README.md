@@ -4,7 +4,7 @@
 **Цель:** удалёнка (Python-бэкенд) и переезд в Ростов летом 2027.
 
 ## Где я сейчас
-Неделя 6 — SQL (SQLite → PostgreSQL)
+Неделя 7 — SQL (SQLite → PostgreSQL)
 
 ## Пройдено
 - [x] Git/GitHub, WSL

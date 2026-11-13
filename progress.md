@@ -76,6 +76,9 @@
 * 10.11.2026 (вт), ~1,5 ч: Codeforces 2271A не дорешал (max y = x + 1, отсюда -1; осталась чётность); task-tracker: пункт 3 меню на SQLite (choose_task_menu по id из базы, mark_done и delete_task в меню), manager убран из main, всё меню через db.py; повторил индексы кортежей, реляционные БД, первичный и внешний ключ. Завтра: добить 2271A, удалить task.py и JSON, PR и merge в main, SQL Academy IF.
 * 11.11.2026 - Codeforces 2271A решил (условие -1 через x + 1 и чётность суммы). Убрал task.py и JSON, сделал первый PR #1 и смержил feature/sqlite-storage в main, трекер полностью на SQLite. IF не сделал, голова болела. Печать. ~2ч.
 
+## Неделя 9
+* 12.11.2026 - Codeforces 4A «Арбуз» (поймал ловушку с w = 2). SQL Academy: модуль 4 закрыт (IF через CASE), модуль 5 начат — INSERT с подзапросом по внешнему ключу. Генераторы: yield, next, StopIteration, исчерпание, list comprehension и генераторные выражения. Печать. ~2,5ч.
+
 
 
 

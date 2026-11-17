@@ -81,6 +81,7 @@
 * 13.11.2026 - выходной
 * 14.11.2026 - Codeforces 2275B «Не пошло в печать» (Div. 3, первая B) — Accepted с первой отправки. Идею вывел сам, прогнав примеры руками: стопка + два вида потерянных документов. Впервые в C++: stack, vector, sort, string. Шло тяжело, лёг в 4 утра, напряжёнка, но добил. ~2ч.
 * 15.11.2026 - Codeforces 2269A «Банк SauSaGe» решил сам, и идею, и почти весь синтаксис. SQL Academy модуль 5: UPDATE с подзапросом через owner_id. Трекер: разобрался, почему main был старый (pull после мержа!), генераторы iter_task и iter_undone_tasks (второй сам с нуля), count_tasks через COUNT(*) и fetchone, len у генератора не работает. PR #2 смержен. Печать 5 мин. ~3,5ч.
+* 17.11.2026 - Codeforces 2274A «Проекции Пако» — с подсказками (формула отражения 2c - x, приём «идти с конца»), решить заново через пару дней. SQL Academy: модуль 5 закрыт, модуль 7 наполовину (CREATE TABLE, SERIAL, DEFAULT CURRENT_TIMESTAMP, UNIQUE, FOREIGN KEY, ON DELETE/UPDATE CASCADE). Трекер: ветка feature/tests, DB_PATH, начал первый тест с tmp_path и monkeypatch. Печать. 3
 
 
 

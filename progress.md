@@ -81,8 +81,9 @@
 * 13.11.2026 - выходной
 * 14.11.2026 - Codeforces 2275B «Не пошло в печать» (Div. 3, первая B) — Accepted с первой отправки. Идею вывел сам, прогнав примеры руками: стопка + два вида потерянных документов. Впервые в C++: stack, vector, sort, string. Шло тяжело, лёг в 4 утра, напряжёнка, но добил. ~2ч.
 * 15.11.2026 - Codeforces 2269A «Банк SauSaGe» решил сам, и идею, и почти весь синтаксис. SQL Academy модуль 5: UPDATE с подзапросом через owner_id. Трекер: разобрался, почему main был старый (pull после мержа!), генераторы iter_task и iter_undone_tasks (второй сам с нуля), count_tasks через COUNT(*) и fetchone, len у генератора не работает. PR #2 смержен. Печать 5 мин. ~3,5ч.
-* 17.11.2026 - Codeforces 2274A «Проекции Пако» — с подсказками (формула отражения 2c - x, приём «идти с конца»), решить заново через пару дней. SQL Academy: модуль 5 закрыт, модуль 7 наполовину (CREATE TABLE, SERIAL, DEFAULT CURRENT_TIMESTAMP, UNIQUE, FOREIGN KEY, ON DELETE/UPDATE CASCADE). Трекер: ветка feature/tests, DB_PATH, начал первый тест с tmp_path и monkeypatch. Печать. 3
-
+* 16.11.2026 - отдых
+* 17.11.2026 - Codeforces 2274A «Проекции Пако» — с подсказками (формула отражения 2c - x, приём «идти с конца»), решить заново через пару дней. SQL Academy: модуль 5 закрыт, модуль 7 наполовину (CREATE TABLE, SERIAL, DEFAULT CURRENT_TIMESTAMP, UNIQUE, FOREIGN KEY, ON DELETE/UPDATE CASCADE). Трекер: ветка feature/tests, DB_PATH, начал первый тест с tmp_path и monkeypatch. Печать. 3ч
+* 18.11.2026 - Codeforces 2267B Div2 «Модный массив» — своя идея с наводящими примерами, решена, но не отправлена (Cloudflare не пустил). Синтаксис: vector, массив-счётчик, обратные циклы по кругам, *max_element (звёздочка — взять число по адресу) из <algorithm>. task-tracker: добавил DB_PATH, pytest — test_add_task_to_db и test_mark_done, тест нашёл баг в count_tasks (смотрела в настоящую базу), удалил старый test_task.py. Печать, новая буква, ~30 мин. ~3ч 15м.
 
 
 
